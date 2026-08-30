@@ -267,20 +267,11 @@ Procuro desenvolver aplicações web responsivas, experiências digitais moderna
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 
+<br/>
+<br/>
 
-## 🐍 Minhas contribuições
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EverChagas/EverChagas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EverChagas/EverChagas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EverChagas/EverChagas/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#90EE90&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FFA500&height=120&section=footer"/>
 
 <br/>
 <br/>
