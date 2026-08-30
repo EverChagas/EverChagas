@@ -270,6 +270,7 @@ Procuro desenvolver aplicações web responsivas, experiências digitais moderna
 <br/>
 <br/>
 
+###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FFA500&height=120&section=footer"/>
 
